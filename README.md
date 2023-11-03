@@ -12,7 +12,7 @@ Notas sobre el GitHub-Universe-Cloud-Skills-Challenge
 
 ## Procedimientos para crear y modificar un proyecto de Git
 
-1.<a href="./2 - Procedimientos para crear y modificar un proyecto de Git.md/1 - Ejercicio Inicio de un proyecto.md">Ejercicio Inicio de un proyecto</a>
+1. <a href="./2 - Procedimientos para crear y modificar un proyecto de Git.md/1 - Ejercicio Inicio de un proyecto.md">Ejercicio Inicio de un proyecto</a>
 
 2. <a href="./2 - Procedimientos para crear y modificar un proyecto de Git.md/2 - Ejercicio Realización de cambios y seguimiento de estos con Git.md">Ejercicio Realización de cambios y seguimiento de estos con Git</a>
 
