@@ -4,11 +4,11 @@ Notas sobre el GitHub-Universe-Cloud-Skills-Challenge
 
 ## Introduccion al control de versiones con Git
 
-1.<a href="./1 - Introduccion al control de versiones con Git/1 - Introduccion a git.md">Introducción a Git</a>
+1. <a href="./1 - Introduccion al control de versiones con Git/1 - Introduccion a git.md">Introducción a Git</a>
 
-2.<a href="./1 - Introduccion al control de versiones con Git/2 - Ejercicio Prueba de Git.md">Ejercicio de prueba Git</a>
+2. <a href="./1 - Introduccion al control de versiones con Git/2 - Ejercicio Prueba de Git.md">Ejercicio de prueba Git</a>
 
-3.<a href="./1 - Introduccion al control de versiones con Git/3 - Comandos basicos de git.md">comandos básicos de Git</a>
+3. <a href="./1 - Introduccion al control de versiones con Git/3 - Comandos basicos de git.md">comandos básicos de Git</a>
 
 ## Procedimientos para crear y modificar un proyecto de Git
 
