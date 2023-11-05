@@ -39,3 +39,19 @@ Notas sobre el GitHub-Universe-Cloud-Skills-Challenge
 3. <a href="./4 - Edición de código mediante creación de ramas y combinación en Git/3 - Ejercicio Combinación de la rama de Bob.md">Ejercicio Combinación de la rama de Bob</a>
 
 4. <a href="./4 - Edición de código mediante creación de ramas y combinación en Git/4- Ejercicio Resolución de conflictos de combinación.md">Ejercicio Resolución de conflictos de combinación</a>
+
+## Introducción a GitHub
+
+1. <a href="./5 - Introducción a GitHub/1- Qué es GitHub.md">¿Qué es GitHub?</a>
+
+2. <a href="./5 - Introducción a GitHub/2 - Ejercicio Paseo guiado por GitHub.md">Ejercicio Paseo guiado por GitHub</a>
+
+## Código con GitHub Codespaces
+
+1. <a href="./6 - Código con GitHub Codespaces/1 - Ciclo de vida de un codespace.md">Ciclo de vida de un codespace</a>
+
+2. <a href="./6 - Código con GitHub Codespaces/2 - Personalizar su Codespace.md">Personalizar su Codespace</a>
+
+3. <a href="./6 - Código con GitHub Codespaces/3 - Codespaces versus GitHub.dev editor.md">Codespaces versus GitHub.dev editor</a>
+
+4. <a href="./6 - Código con GitHub Codespaces/4 - Ejercicio Código con Codespaces y Visual Studio Code.md">Ejercicio Código con Codespaces y Visual Studio Code</a>
