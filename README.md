@@ -63,3 +63,13 @@ Notas sobre el GitHub-Universe-Cloud-Skills-Challenge
 2. <a href="./7 - Introducción a GitHub Copilot/2 - Instalación, configuración y solución de problemas de GitHub Copilot.md">Instalación, configuración y solución de problemas de GitHub Copilot</a>
 
 3. <a href="./7 - Introducción a GitHub Copilot/3 - Ejercicio Desarrollo con sugerencias de código con tecnología de IA mediante GitHub Copilot y VS Code.md">Ejercicio Desarrollo con sugerencias de código con tecnología de IA mediante GitHub Copilot y VS Code</a>
+
+## Uso de GitHub Copilot en JavaScript
+
+1. <a href="./8 - Uso de GitHub Copilot en JavaScript/1 - Qué es GitHub Copilot.md">Qué es GitHub Copilot</a>
+
+2. <a href="./8 - Uso de GitHub Copilot en JavaScript/2 - Ejercicio Configuración de GitHub Copilot para trabajar con Visual Studio Code.md">Ejercicio Configuración de GitHub Copilot para trabajar con Visual Studio Code</a>
+
+3. <a href="./8 - Uso de GitHub Copilot en JavaScript/3 - Uso de GitHub Copilot con JavaScript.md">Uso de GitHub Copilot con JavaScript</a>
+
+4. <a href="./8 - Uso de GitHub Copilot en JavaScript/4 - Ejercicio Actualización de una cartera de JavaScript con GitHub Copilot.md">Ejercicio Actualización de una cartera de JavaScript con GitHub Copilot</a>
