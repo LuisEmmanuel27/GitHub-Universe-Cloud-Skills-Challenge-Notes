@@ -55,3 +55,11 @@ Notas sobre el GitHub-Universe-Cloud-Skills-Challenge
 3. <a href="./6 - Código con GitHub Codespaces/3 - Codespaces versus GitHub.dev editor.md">Codespaces versus GitHub.dev editor</a>
 
 4. <a href="./6 - Código con GitHub Codespaces/4 - Ejercicio Código con Codespaces y Visual Studio Code.md">Ejercicio Código con Codespaces y Visual Studio Code</a>
+
+## Introducción a GitHub Copilot
+
+1. <a href="./7 - Introducción a GitHub Copilot/1 - GitHub Copilot, el programador de pares de IA.md">GitHub Copilot, el programador de pares de IA</a>
+
+2. <a href="./7 - Introducción a GitHub Copilot/2 - Instalación, configuración y solución de problemas de GitHub Copilot.md">Instalación, configuración y solución de problemas de GitHub Copilot</a>
+
+3. <a href="./7 - Introducción a GitHub Copilot/3 - Ejercicio Desarrollo con sugerencias de código con tecnología de IA mediante GitHub Copilot y VS Code.md">Ejercicio Desarrollo con sugerencias de código con tecnología de IA mediante GitHub Copilot y VS Code</a>
